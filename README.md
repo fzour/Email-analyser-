@@ -1,6 +1,7 @@
 # Email analyzer app
 * Exploratory Data Analysis (EDA)
 * NLP
+* Extract, Transform, Load (ETL)
 * Python
 * Web development
 * Machine Learning
