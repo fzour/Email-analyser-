@@ -1,5 +1,5 @@
 # Email analyzer app
-
+* Exploratory Data Analysis (EDA)
 * NLP
 * Python
 * Web development
